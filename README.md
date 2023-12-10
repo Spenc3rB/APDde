@@ -1,4 +1,4 @@
-# Stereo Vision Depth Estimation with YOLO
+# Stereo Vision Depth Estimation with YOLO - Part of APDde [Autonomous Pedestrian Dection with Depth Estimation](https://gtihub.com/Electric-Go-Kart)
 
 ![Example video](https://github.com/Spenc3rB/YOLOv8Depth/assets/101066043/0ee56077-a8ca-46f9-b68e-89c77874a969)
 
