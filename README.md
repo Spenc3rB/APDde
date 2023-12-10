@@ -1,5 +1,7 @@
 # Stereo Vision Depth Estimation with YOLO
 
+![Example video](https://github.com/Spenc3rB/YOLOv8Depth/assets/101066043/0ee56077-a8ca-46f9-b68e-89c77874a969)
+
 This repository contains a Python script for stereo vision depth estimation using the YOLO (You Only Look Once) object detection model. The system employs two cameras, a right and a left camera, to capture stereo images and calculates the depth of detected objects in real-time. Depth is estimated based on triangulation principles.
 
 ## Requirements
